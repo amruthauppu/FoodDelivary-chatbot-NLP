@@ -2,7 +2,7 @@ import mysql.connector
 
 config = {
         'user': 'root',
-        'password': '*****',
+        'password': '******',
         'host': '127.0.0.1',
         'database': 'pandeyji_eatery',
         'raise_on_warnings': True
